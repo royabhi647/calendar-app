@@ -30,7 +30,7 @@ To run this project locally, follow these steps:
    ```
 
 2. Install Dependencies:
-   <code>npm install</code>
+   <pre>npm install</pre>
 
 3. Start your application:
-   <code>npm run dev</code>
+   <pre>npm run dev</pre>
