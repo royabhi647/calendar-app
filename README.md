@@ -2,6 +2,8 @@
 
 This project is a React-based implementation of a monthly calendar timeline, similar in functionality to Mobiscroll's monthly calendar timeline, but built from scratch using the ViteJs framework.
 
+# [Deployment link](https://main--abhii-calendar-app.netlify.app/)
+
 ## Features
 
 - **Monthly Calendar View**: Displays a full month view with events.
@@ -34,3 +36,8 @@ To run this project locally, follow these steps:
 
 3. Start your application:
    <pre>npm run dev</pre>
+
+## Assignment Screenshot
+
+![calendar1](https://github.com/user-attachments/assets/8becd967-198c-4b98-ac95-205b351d4b33)
+![calendar2](https://github.com/user-attachments/assets/3c3b6b71-a8e0-457a-aa93-beafd186a934)
