@@ -24,6 +24,6 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone [your-repository-url]
-   cd [your-repository-name]
+   git clone https://github.com/royabhi647/calendar-app.git
+   cd calendar-app
    ```
