@@ -23,7 +23,14 @@ This project is a React-based implementation of a monthly calendar timeline, sim
 To run this project locally, follow these steps:
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/royabhi647/calendar-app.git
    cd calendar-app
    ```
+
+2. Install Dependencies:
+   <code>npm install</code>
+
+3. Start your application:
+   <code>npm run dev</code>
